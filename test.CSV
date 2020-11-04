@@ -1,5 +1,5 @@
-value,skill
-1,20
-2,55
-3,62
-4,99
+group,Student1,Student2,Student3
+Exam1,12,1,13
+Exam2,6,6,33
+Exam3,11,28,12
+
