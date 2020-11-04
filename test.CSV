@@ -1,5 +1,5 @@
-group,Student1,Student2,Student3
-Exam1,12,1,13
-Exam2,6,6,33
-Exam3,11,28,12
+group,Student1,Student2,Student3,Student4
+Exam1,12,1,13,5
+Exam2,6,6,33,9
+Exam3,11,28,12,8
 
