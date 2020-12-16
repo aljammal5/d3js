@@ -2,43 +2,54 @@
   "nodes": [
     {
       "id": 1,
-      "name": "A"
+      "name": "A",
+      "grp":"1"
     },
     {
       "id": 2,
-      "name": "B"
+      "name": "B",
+"grp":"1"
     },
     {
       "id": 3,
-      "name": "C"
+      "name": "C",
+"grp":"1"
     },
     {
       "id": 4,
-      "name": "D"
+      "name": "D",
+"grp":"1"
     },
     {
       "id": 5,
-      "name": "F"
+      "name": "F",
+"grp":"1"
     },
     {
       "id": 6,
-      "name": "A"
+      "name": "A",
+"grp":"2"
     },
     {
       "id": 7,
       "name": "B"
+,
+"grp":"2"
     },
     {
       "id": 8,
-      "name": "C"
+      "name": "C",
+"grp":"2"
     },
     {
       "id": 9,
-      "name": "D"
+      "name": "D",
+"grp":"2"
     },
     {
       "id": 10,
-      "name": "F"
+      "name": "F",
+"grp":"2"
     }
   ],
   "links": [
